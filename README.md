@@ -57,5 +57,5 @@ Version 1.0.0 | © 2025 All rights reserved.
 
 ## 📩 Feedback & Contributions
 
-Have suggestions or issues? Feel free to open an [issue](https://github.com/your-repo/issues/) or reach out on LinkedIn.
+Have suggestions or issues? Feel free to open an [Issues](https://github.com/Mohamed-Issam/OOS-Solver-Public/issues) or reach out on LinkedIn.
 [Mohamed Issam](https://www.linkedin.com/in/mohamed-issam-379186203/)
