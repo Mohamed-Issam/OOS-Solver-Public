@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# OOS Solver Public
-Python tool that connects to your local DB and solves out of sequence
-=======
 # 🛠️ P6 OOS Solver 1.0
 
 **P6 OOS Solver** is a Python-based desktop tool that connects to your local Primavera P6 database to identify and help resolve **out-of-sequence activities** efficiently.
