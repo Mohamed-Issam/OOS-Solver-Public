@@ -59,4 +59,3 @@ Version 1.0.0 | © 2025 All rights reserved.
 
 Have suggestions or issues? Feel free to open an [issue](https://github.com/your-repo/issues) or reach out on LinkedIn.
 [Mohamed Issam](www.linkedin.com/in/mohamed-issam-379186203)
->>>>>>> 3b4b7fe (Update README.md)
