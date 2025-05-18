@@ -42,6 +42,11 @@
 
 ---
 
+## 🎞️ Video Tutorial
+[Tutorial](https://www.linkedin.com/posts/mohamed-issam-379186203_primavera-p6-python-activity-7329109189371367426-4UBW?utm_source=share&utm_medium=member_desktop&rcm=ACoAADPRLo0BkHbcxAE9_HhEWBWNwzc7H-u7pZU)
+
+---
+
 ## 📘 Based On
 
 This tool solves OOS according to this post [LinkedIn guide by Eng. Amr Morsy](https://www.linkedin.com/pulse/how-solve-out-sequence-activities-amr-morsy/)
